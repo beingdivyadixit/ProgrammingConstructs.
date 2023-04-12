@@ -7,6 +7,7 @@ namespace ProgrammingConstructs_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World to Programming Constructs.");
+            TwoNumIsEqual.IsWqual();
         }
     }
 }
